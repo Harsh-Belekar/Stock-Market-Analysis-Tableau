@@ -113,3 +113,13 @@ These KPIs dynamically update based on selected stock and date range.
 2. Open `Stock Market Analysis Dashboard.twb` in **Tableau Desktop**
 3. Ensure `stocks.csv` is in the same directory
 4. Use filters to interact with the dashboard
+
+---
+
+## 🧑‍💻 Author
+
+**👤 Harsh Belekar**  
+📍 Data Analyst | Python Developer | SQL | Power BI | Excel | Data Visualization  
+📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
+
+📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
