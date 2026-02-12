@@ -22,6 +22,7 @@ This project is ideal for showcasing **data analytics and Tableau skills** in po
 ├── README.md
 ├── Stock Market Analysis Dashboard.png
 ├── Stock Market Analysis Dashboard.twb
+├── Stock Market Analysis Project Report.pdf
 └── stocks.csv
 ```
 
